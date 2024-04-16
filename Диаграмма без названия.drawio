@@ -1,9 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T06:29:34.259Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.2.5" etag="gg6wM-vGMteKrTBV0lNX" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-16T06:51:53.366Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="AAFcr6NEiuDhjfO7eDRP" version="24.2.5" type="github">
   <diagram name="Страница — 1" id="YVnf6Wt0-apJij2MY1EW">
-    <mxGraphModel>
+    <mxGraphModel dx="707" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9LfdeL5_YAKgS9ww6KvY-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9LfdeL5_YAKgS9ww6KvY-1" target="9LfdeL5_YAKgS9ww6KvY-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="485" y="200" />
+              <mxPoint x="485" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9LfdeL5_YAKgS9ww6KvY-1" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 14px; line-height: normal; font-family: Monaco; text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: &amp;quot;Söhne Mono&amp;quot;, Monaco, &amp;quot;Andale Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, monospace; white-space: pre; background-color: rgb(13, 13, 13);&quot;&gt;Начало сортировки пузырьком&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="90" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9LfdeL5_YAKgS9ww6KvY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9LfdeL5_YAKgS9ww6KvY-3" target="9LfdeL5_YAKgS9ww6KvY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9LfdeL5_YAKgS9ww6KvY-3" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: &amp;quot;Söhne Mono&amp;quot;, Monaco, &amp;quot;Andale Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(13, 13, 13);&quot;&gt;Инициализация переменных&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="190" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9LfdeL5_YAKgS9ww6KvY-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9LfdeL5_YAKgS9ww6KvY-6" target="9LfdeL5_YAKgS9ww6KvY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9LfdeL5_YAKgS9ww6KvY-6" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: &amp;quot;Söhne Mono&amp;quot;, Monaco, &amp;quot;Andale Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(13, 13, 13);&quot;&gt;Первая итерация&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="290" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9LfdeL5_YAKgS9ww6KvY-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9LfdeL5_YAKgS9ww6KvY-8" target="9LfdeL5_YAKgS9ww6KvY-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9LfdeL5_YAKgS9ww6KvY-8" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: &amp;quot;Söhne Mono&amp;quot;, Monaco, &amp;quot;Andale Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(13, 13, 13);&quot;&gt;Сравнение и перестановка &lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: &amp;quot;Söhne Mono&amp;quot;, Monaco, &amp;quot;Andale Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(13, 13, 13);&quot;&gt;элементов в паре &lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="390" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9LfdeL5_YAKgS9ww6KvY-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9LfdeL5_YAKgS9ww6KvY-10" target="9LfdeL5_YAKgS9ww6KvY-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9LfdeL5_YAKgS9ww6KvY-10" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: &amp;quot;Söhne Mono&amp;quot;, Monaco, &amp;quot;Andale Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(13, 13, 13);&quot;&gt;Проверка наличия &lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: &amp;quot;Söhne Mono&amp;quot;, Monaco, &amp;quot;Andale Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(13, 13, 13);&quot;&gt;неотсортированных элементов&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="530" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9LfdeL5_YAKgS9ww6KvY-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9LfdeL5_YAKgS9ww6KvY-12" target="9LfdeL5_YAKgS9ww6KvY-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9LfdeL5_YAKgS9ww6KvY-12" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: &amp;quot;Söhne Mono&amp;quot;, Monaco, &amp;quot;Andale Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(13, 13, 13);&quot;&gt;Повторение итераций&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="670" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9LfdeL5_YAKgS9ww6KvY-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9LfdeL5_YAKgS9ww6KvY-14" target="9LfdeL5_YAKgS9ww6KvY-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9LfdeL5_YAKgS9ww6KvY-14" value="&lt;span style=&quot;background-color: rgb(0, 0, 0);&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Проверка на завершение сортировки&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="810" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9LfdeL5_YAKgS9ww6KvY-18" value="&lt;span style=&quot;background-color: rgb(0, 0, 0);&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Вывод отсортированного массива&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="950" width="270" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
